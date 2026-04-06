@@ -1,9 +1,11 @@
- ATTENDANCE MANAGEMENT SYSTEM <br>
+Just built my second Python project — an Ice Cream Ordering System! 🍦
 
-I had a strong curiosity to understand how attendance systems actually work — when a teacher marks attendance, how does the system calculate and reflect changes in student records?
+As someone who's still learning, I wanted to build something fun that actually works.
 
-Instead of just wondering about it, I tried to break down the core logic behind it.
+The project covers:
+→ Nested dictionaries for the menu
+→ Input validation with while loops
+→ Topping add-ons with live price tracking
+→ A countdown timer using the time module
+→ Recursive order restart logic
 
-So I built a small Python simulation for a class of 52 students, where attendance directly affects each student’s percentage (increase for presence, decrease for absence).
-
-This is not a full system — no UI, no database, no real-time updates — just the core logic that drives how attendance data changes.
